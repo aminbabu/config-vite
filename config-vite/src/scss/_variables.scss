@@ -1,0 +1,48 @@
+// scss-docs-start gray-color-variables
+$gray-200: #e9e9e9;
+$gray-300: #d9d9d9;
+$gray-600: #626760;
+$gray-900: #1e1e1e;
+// scss-docs-end gray-color-variables
+
+// scss-docs-start color-variables
+$blue: #0d6efd;
+$blue-active: #005de5;
+$yellow: #f79e1b;
+$green: #207849;
+// scss-docs-end color-variables
+
+// Body
+//
+// Settings for the `<body>` element.
+$body-color: $gray-600;
+
+// scss-docs-start font-variables
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
+  "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+// scss-docs-end font-variables
+
+// Container padding
+
+$grid-gutter-width: 2rem;
+
+// scss-docs-start offcanvas-variables
+$offcanvas-horizontal-width: 266px;
+// scss-docs-end offcanvas-variables
+
+// scss-docs-start modal-variables
+$modal-backdrop-opacity: 0.45;
+// scss-docs-end modal-variables
+
+// scss-docs-start input-btn-variables
+$input-btn-padding-y: 0.625rem;
+$input-btn-padding-x: 1.25rem;
+$input-btn-font-size: 0.875rem;
+// scss-docs-end input-btn-variables
+
+$component-active-bg: $blue-active;
+
+// scss-docs-start navbar-variables
+$nav-link-font-size: 13px;
+// scss-docs-end navbar-variables
